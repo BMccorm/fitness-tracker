@@ -20,7 +20,7 @@ Created by [BMcCorm](https://github.com/BMcCorm)
 
 ## Description
 
-This workout tracker displays exercise statistics over the span of a week. Continually update the tracker by adding new cardio or resistance workouts. The app runs on node, handle routes with Express and stores information using mongo.
+This workout tracker displays exercise statistics over the span of a week. Continually update the tracker by adding new cardio or resistance workouts. The app runs on node, handles routes with Express and stores information using mongo.
 
 ## Installation
 This user-friendly interface does not require installation. It's hosted on Heroku and can be found [here](https://fitness-tracker-bm.herokuapp.com/).
