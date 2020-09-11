@@ -1,26 +1,55 @@
-# Workout Tracker
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
-## User Story
+![GitHub repo size](https://img.shields.io/github/repo-size/BMcCorm/fitness-tracker)
+![GitHub stars](https://img.shields.io/github/stars/BMcCorm/fitness-tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/BMcCorm/fitness-tracker?style=social)
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+# fitness-tracker
+Created by [BMcCorm](https://github.com/BMcCorm) 
 
-## Business Context
+![Github icon image](https://avatars1.githubusercontent.com/u/64443618?v=4)
 
-A consumer will reach their fitness goals quicker when they track their workout progress.
+## Table of Contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributors)
+- [Testing](#Testing)
+- [License](#License)
+- [Questions](#Questions)
 
-## Acceptance Criteria
+## Description
 
-When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
+This workout tracker displays exercise statistics over the span of a week. Continually update the tracker by adding new cardio or resistance workouts. The app runs on node, handle routes with Express and stores information using mongo.
 
-The user should be able to:
+## Installation
+This user-friendly interface does not require installation. It's hosted on Heroku and can be found [here](https://fitness-tracker-bm.herokuapp.com/).
 
-  * Add exercises to a previous workout plan.
+## Usage
+Enter new data by clicking the "new workout" button. Select your exercise type and follow the provided prompts. 
 
-  * Add new exercises to a new workout plan.
+## Interested in contributing? Here's how:
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+1. Fork this repository
+2. Create a branch: git checkout -b "create_a_branch_name"
+3. Make and commit your changes: git commit -m "add your message here"
+4. Push to the master branch: git push origin "branch_name"
+5. Create the pull request
+
+Additional information on creating a pull request can be found [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 
+
+## Contributors
+None at this time
+
+## Testing
+None at this time
+
+## License
+None at this time 
+
+## Questions
+For more information, please email me at BrielleMcCormick@gmail.com
+The link for this project can be found [here.](https://BMcCorm.github.io/fitness-tracker/)
 
 
 
